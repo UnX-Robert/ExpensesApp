@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UnX-Robert/ExpensesApp/static/css/main.0cf4440a.css",
+    "main.js": "/UnX-Robert/ExpensesApp/static/js/main.2aedcea3.js",
+    "index.html": "/UnX-Robert/ExpensesApp/index.html",
+    "main.0cf4440a.css.map": "/UnX-Robert/ExpensesApp/static/css/main.0cf4440a.css.map",
+    "main.2aedcea3.js.map": "/UnX-Robert/ExpensesApp/static/js/main.2aedcea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf4440a.css",
+    "static/js/main.2aedcea3.js"
+  ]
+}
