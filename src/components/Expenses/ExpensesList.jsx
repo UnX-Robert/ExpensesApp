@@ -4,7 +4,7 @@ import ExpenseItem from "./ExpenseItem";
 
 function ExpensesList(props) {
   if (props.filteredExpenses.length === 0) {
-    return <h2>No expenses found.</h2>;
+    return <h2 className="headingCenter">No expenses found.</h2>;
   } else {
     return (
       <ul className="expenses-list">
